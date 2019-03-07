@@ -40,7 +40,7 @@ it('renders a title', () => {
 });
 
 it('renders a repo names', () => {
-  const names /* @TODO Get the reoo name */ = expect(names.length).toEqual(2);
+  const names /* @TODO Get the repo name */ = expect(names.length).toEqual(2);
   expect(names.at(0).text()).toEqual('Test');
   expect(names.at(1).text()).toEqual('Test 2');
 });
