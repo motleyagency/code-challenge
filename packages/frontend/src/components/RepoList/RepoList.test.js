@@ -1,60 +1,38 @@
 import React from 'react';
-import { mount } from 'enzyme';
 import RepoList from './';
 
-/**
- * These tests are pretty naive on purpose
- */
-const data = [
-  {
-    id: 1,
-    name: 'Test',
-    html_url: 'https://github.com/motleyagency/test',
-    language: 'JavaScript',
-  },
-  {
-    id: 2,
-    name: 'Test 2',
-    html_url: 'https://github.com/motleyagency/test2',
-    language: 'Ocaml',
-  },
-];
+// Implement the following tests with for example react-testing-library
+// See https://testing-library.com/docs/react-testing-library/intro for more information.
+// in __mocks__ you have sample data you can use if you want to, or just test it against the
+// live app.
+//
+// You probably want to start with something like
+// const Elem = render(<RepoList data={mockData} username={"foo"} />)
 
-let Elem = null;
-
-beforeEach(() => {
-  Elem = mount(
-    <RepoList
-      data={data}
-      username="petetnt"
-      fetchMore={jest.fn()}
-      isLastPage={false}
-    />,
-  );
-});
-
-it('renders a title', () => {
-  const title /* @TODO Get the title */ = expect(title.text()).toEqual(
-    'petetnt – repos',
-  );
+it('renders a title in format of username - repos', () => {
+  throw new Error('Test not implemented');
 });
 
 it('renders a repo names', () => {
-  const names /* @TODO Get the repo name */ = expect(names.length).toEqual(2);
-  expect(names.at(0).text()).toEqual('Test');
-  expect(names.at(1).text()).toEqual('Test 2');
+  throw new Error('Test not implemented');
 });
 
-it('renders repo names as a link', () => {
+it('renders repo names as a link that links to the GitHub repo', () => {
+  throw new Error('test not implemented');
+});
+
+it('renders the desciptions', () => {
+  throw new Error('test not implemented');
+});
+
+it('renders the languages of the repos', () => {
   throw new Error('test not implemented');
 });
 
 it('renders load more button if there is more to load', () => {
-  const button = Elem.find(Button);
-
-  expect(button.length).toEqual(1);
+  throw new Error('Test not implemented');
 });
 
-it('does not renders load more button if there is nothing to load', () => {
+it('does not render load more button if there is nothing to load', () => {
   throw new Error('test not implemented');
 });

@@ -36,8 +36,7 @@ There's also a [Figma layout for it](https://www.figma.com/file/QGzYD0dU67oFpzNE
 * This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app), so if you are familiar
   with CRA, you are in luck! Otherwise you might want to [get familiar with it first](<(https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)>).
 
-* The tests are done with [Jest](https://facebook.github.io/jest/) and [Enzyme](http://airbnb.io/enzyme/), but you can use plain [React TestUtilities](https://reactjs.org/docs/test-utils.html) or something like [`react-testing-library`](https://github.com/kentcdodds/react-testing-library)
-  too.
+* The tests are done with [Jest](https://facebook.github.io/jest/) and [`react-testing-library`](https://github.com/kentcdodds/react-testing-library) in mind, but you can use something like [Enzyme](http://airbnb.io/enzyme/), but you can use plain [React TestUtilities](https://reactjs.org/docs/test-utils.html) too.
 
 * You'll need [a GitHub account to get the API token](https://developer.github.com/v3/auth/#basic-authentication). See [settings/tokens](https://github.com/settings/tokens).
 
