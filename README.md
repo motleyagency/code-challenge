@@ -32,7 +32,7 @@ If you haven't done open source work before, [`awesome-for-beginners`](https://g
 ## Help I am stuck!
 
 Oh no! Send us a message at [codechallenge@motley.fi](mailto:codechallenge@motley.fi) or ping one of us on Twitter
-for example [(Pete)](https://twitter.com/pete_tnt) or [(Valtteri)](https://twitter.com/valtterikaresto) describing what you've done and what you have tried
+for example [Pete](https://twitter.com/pete_tnt) or [Valtteri](https://twitter.com/valtterikaresto) describing what you've done and what you have tried
 and we can try to figure out something together.
 
 ## FAQ
