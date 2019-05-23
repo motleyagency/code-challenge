@@ -16,7 +16,7 @@ recruitment pipeline.
 3. If you are applying for a job, make your changes, commit them and send them and a small note describing what
   you've done via
     - A link to a public GitHub repo
-    - A link to a private GitHub repo where you add @petetnt as a collaborator
+    - A link to a private GitHub repo where you add @petetnt and @valstu as a collaborator
     - A link to a public / private GitLab/BitBucket repo (or similar)
     - Or by email in an archive that includes the `.git` folder
     to [codechallenge@motley.fi](mailto:codechallenge@motley.fi) or your Motley contact person with a headline "`${YOUR_NAME} - Code challenge`"
@@ -32,7 +32,7 @@ If you haven't done open source work before, [`awesome-for-beginners`](https://g
 ## Help I am stuck!
 
 Oh no! Send us a message at [codechallenge@motley.fi](mailto:codechallenge@motley.fi) or ping one of us on Twitter
-[(for example Pete)](https://twitter.com/pete_tnt) describing what you've done and what you have tried
+for example [(Pete)](https://twitter.com/pete_tnt) or [(Valtteri)](https://twitter.com/valtterikaresto) describing what you've done and what you have tried
 and we can try to figure out something together.
 
 ## FAQ
