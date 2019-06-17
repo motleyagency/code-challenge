@@ -19,7 +19,7 @@ recruitment pipeline.
     - A link to a private GitHub repo where you add @petetnt and @valstu as a collaborator
     - A link to a public / private GitLab/BitBucket repo (or similar)
     - Or by email in an archive that includes the `.git` folder
-    to [codechallenge@motley.fi](mailto:codechallenge@motley.fi) or  (or the people mentioned in the [Help I am stuck-section](#help-i-am-stuck)) with a headline "`${YOUR_NAME} - Code challenge`"
+    to your Motley contact (or the people mentioned in the [Help I am stuck-section](#help-i-am-stuck)) with a headline "`${YOUR_NAME} - Code challenge`"
 
 ## ...or you can contribute to open source projects
 
