@@ -19,21 +19,19 @@ recruitment pipeline.
     - A link to a private GitHub repo where you add @petetnt and @valstu as a collaborator
     - A link to a public / private GitLab/BitBucket repo (or similar)
     - Or by email in an archive that includes the `.git` folder
-    to [codechallenge@motley.fi](mailto:codechallenge@motley.fi) or your Motley contact person with a headline "`${YOUR_NAME} - Code challenge`"
+    to [codechallenge@motley.fi](mailto:codechallenge@motley.fi) or  (or the people mentioned in the [Help I am stuck-section](#help-i-am-stuck)) with a headline "`${YOUR_NAME} - Code challenge`"
 
 ## ...or you can contribute to open source projects
 
 If you don't want to do the regular test or want to challenge yourself more, we also appreciate
 open source contributions! Send us samples of open source work you have done and descriptions what
-you did and why to [codechallenge@motley.fi](mailto:codechallenge@motley.fi) or your Motley contact person and we will continue from there.
+you did and why to your Motley contact person (or the people mentioned in the [Help I am stuck-section](#help-i-am-stuck)) and we will continue from there.
 
 If you haven't done open source work before, [`awesome-for-beginners`](https://github.com/MunGell/awesome-for-beginners) repo might be a good start.
 
 ## Help I am stuck!
 
-Oh no! Send us a message at [codechallenge@motley.fi](mailto:codechallenge@motley.fi) or ping one of us on Twitter
-for example [Pete](https://twitter.com/pete_tnt) or [Valtteri](https://twitter.com/valtterikaresto) describing what you've done and what you have tried
-and we can try to figure out something together.
+Oh no! Send us a message at [pete@motley.fi](mailto:pete@motley.fi) / [valtteri@motley.fi](mailto:valtteri@motley.fi) or ping one of us on Twitter ([Pete](https://twitter.com/pete_tnt) / [Valtteri](https://twitter.com/valtterikaresto)) describing what you've done and what you have tried and we can try to figure out something together.
 
 ## FAQ
 
