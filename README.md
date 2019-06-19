@@ -1,6 +1,6 @@
 # Motley Code Challenge :rocket:
 
-> A Small repo containing some practical tests
+> A Motley Agency recruitment test
 
 This repository contains some small challenges, usually done by potential new hires during our
 recruitment pipeline.
@@ -16,8 +16,8 @@ recruitment pipeline.
 3. If you are applying for a job, make your changes, commit them and send them and a small note describing what
   you've done via
     - A link to a public GitHub repo
-    - A link to a private GitHub repo where you add @petetnt and @valstu as a collaborator
-    - A link to a public / private GitLab/BitBucket repo (or similar)
+    - A link to a private GitHub repo where you add [petetnt](https://github.com/petetnt) and [valstu](https://github.com/valstu) as a collaborator
+    - A link to a public / invite to a private private GitLab/BitBucket repo (or similar)
     - Or by email in an archive that includes the `.git` folder
     to your Motley contact (or the people mentioned in the [Help I am stuck-section](#help-i-am-stuck)) with a headline "`${YOUR_NAME} - Code challenge`"
 
