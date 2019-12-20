@@ -20,7 +20,23 @@ We had a super GDPR compliant server for a list of fake users, but someone delet
 * `/api/users/xxx` serves 404 not found.
 * All tests pass
 
-#### Example query:
+### Hints
+
+* The tests are done with [Jest](https://facebook.github.io/jest/) but you can use the test runner of your choice if needed.
+
+* You'll need [a GitHub account to get the API token](https://developer.github.com/v3/auth/#basic-authentication). See [settings/tokens](https://github.com/settings/tokens).
+
+* This project uses [our styleguide](https://github.com/motleyagency/eslint-config-motley), which might not fit 100% to your current coding style. Not to worry, we are quite flexible with it and formatting is handled by
+  Prettier in _pre-commit_ phase.
+
+### Bonus points
+
+We use GraphQL a lot in our projects these days. Modify the server so that the data is queryable from `/graphql` endpoint
+and `/graphiql` serves [GraphiQL IDE](https://github.com/graphql/graphiql) for exploring the data.
+
+> Hint: We quite often use [Apollo](https://www.apollographql.com/) for these kinds of tasks.
+
+#### Example query
 
 Query:
 
@@ -45,19 +61,3 @@ Result:
   }
 }
 ```
-
-### Hints
-
-* The tests are done with [Jest](https://facebook.github.io/jest/) but you can use the test runner of your choice if needed.
-
-* You'll need [a GitHub account to get the API token](https://developer.github.com/v3/auth/#basic-authentication). See [settings/tokens](https://github.com/settings/tokens).
-
-* This project uses [our styleguide](https://github.com/motleyagency/eslint-config-motley), which might not fit 100% to your current coding style. Not to worry, we are quite flexible with it and formatting is handled by
-  Prettier in _pre-commit_ phase.
-
-### Bonus points
-
-We use GraphQL a lot in our projects these days. Modify the server so that the data is queryable from `/graphql` endpoint
-and `/graphiql` serves [GraphiQL IDE](https://github.com/graphql/graphiql) for exploring the data.
-
-> Hint: We quite often use [Apollo](https://www.apollographql.com/) for these kinds of tasks.
