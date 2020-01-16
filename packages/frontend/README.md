@@ -34,15 +34,13 @@ There's also a [Figma layout for it](https://www.figma.com/file/QGzYD0dU67oFpzNE
 ### Hints
 
 * This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app), so if you are familiar
-  with CRA, you are in luck! Otherwise you might want to [get familiar with it first](<(https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)>).
+  with CRA, you are in luck! Otherwise you might want to [get familiar with it first](<(https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)>).
 
-* The tests are done with [Jest](https://facebook.github.io/jest/) and [Enzyme](http://airbnb.io/enzyme/), but you can use plain [React TestUtilities](https://reactjs.org/docs/test-utils.html) or something like [`react-testing-library`](https://github.com/kentcdodds/react-testing-library)
-  too.
+* The tests are done with [Jest](https://facebook.github.io/jest/) and [Enzyme](http://airbnb.io/enzyme/), but we should really make the tests with [`react-testing-library`](https://github.com/testing-library/react-testing-library) instead to have much better tests. Want to do it? Open a PR :)
 
 * You'll need [a GitHub account to get the API token](https://developer.github.com/v3/auth/#basic-authentication). See [settings/tokens](https://github.com/settings/tokens).
 
-* The project uses [`styled-components`](https://www.styled-components.com/) for the CSS(-in-js), because most of our projects have also used it. Same with [`redux`](https://github.com/reduxjs/redux) and [`redux-thunk`](https://github.com/reduxjs/redux-thunk),
-  but you can get rid of both or replace them with some other state management system you want to.
+* The project uses [`styled-components`](https://www.styled-components.com/) for the CSS(-in-js), because most of our projects have also used it. Same with [`redux`](https://github.com/reduxjs/redux) and [`redux-thunk`](https://github.com/reduxjs/redux-thunk), but you can get rid of both or replace them with some other state management system you want to (or just plain context! or nothing at all!).
 
 * You will find that the project is _really_ incomplete, as in it might actually be _completely_ broken, but that's expected. Debugging is part of the job and ask for help if you get stuck.
 
